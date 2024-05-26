@@ -15,7 +15,7 @@ body{
 .container{
    width: 400px;
    padding: 25px 35px;
-   background: #fff;
+   background: rgb(233, 190, 197);
    position: absolute;
    top: 50%;
    left: 50%;
